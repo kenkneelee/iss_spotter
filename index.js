@@ -1,5 +1,3 @@
-// index.js
-
 const { nextISSTimesForMyLocation } = require('./iss');
 
 const printPassTimes = function(passTimes) {
